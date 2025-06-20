@@ -3,11 +3,13 @@ AI-102 exam tips, resources &amp; practice tests in 2025
 
 just passed the AI-102 exam and wanted to share my prep experience in case it helps anyone preparing. this exam isn't just about knowing services — it really tests your ability to design and implement end-to-end AI solutions using azure’s cognitive services, bot framework, and machine learning tools.
 
-i started with the official microsoft learn paths, which give you a good base, though some parts felt a bit dry. i followed that up with a few videos on youtube to better understand real-world use cases. but what really made the difference for me was doing Measureup practice tests(recommended by a colleague), and they turned out to be extremely helpful. most of the questions were scenario-based, similar to the actual exam, and covered things like choosing the right service (custom vision vs computer vision, QnA Maker vs LUIS), bot development, deployment strategies, authentication, and working with APIs.
+i started with the official microsoft learn paths, which give you a good base, though some parts felt a bit dry. i followed that up with a few videos on youtube to better understand real-world use cases. but what really made the difference for me was doing Skillcertpro practice tests(recommended by a colleague), and they turned out to be extremely helpful. most of the questions were scenario-based, similar to the actual exam, and covered things like choosing the right service (custom vision vs computer vision, QnA Maker vs LUIS), bot development, deployment strategies, authentication, and working with APIs.
+
+https://skillcertpro.com/product/azure-ai-engineer-associate-ai-102-exam-questions/
 
 i prepped for around 3 weeks — 1 week going through learning content and the next 2 weeks doing mock tests, analyzing my mistakes, and making revision notes. their cheat sheet was a lifesaver for last-minute review — it condenses key concepts and helps quickly reinforce what matters most.
 
-if you're aiming for AI-102, my advice is: focus on hands-on experience — use the portal, try out the APIs, build a bot, call services using SDKs or REST. don't just read — actually build and test things. and definitely give measure up a shot — their practice exams build confidence and reflect the real test well. i’d say about 70-80% of the questions i saw were quite similar to what i practiced.
+if you're aiming for AI-102, my advice is: focus on hands-on experience — use the portal, try out the APIs, build a bot, call services using SDKs or REST. don't just read — actually build and test things. and definitely give Skillcertpro a shot — their practice exams build confidence and reflect the real test well. i’d say about 70-80% of the questions i saw were quite similar to what i practiced.
 
 # ✅ AI-102: Designing and Implementing an Azure AI Solution — Exam Tips & Key Topics
 
@@ -15,7 +17,7 @@ if you're aiming for AI-102, my advice is: focus on hands-on experience — use 
 
 - **Understand Azure AI services end-to-end** — Especially Azure Cognitive Services, Azure Machine Learning (AML), and Azure Bot Services. Expect scenario-based questions asking when to use what.
 - **Hands-on practice is crucial** — Use Azure Portal and try deploying models, creating bots, and configuring services like Form Recognizer, LUIS, and QnA Maker.
-- **Master Measureup mock exams** — They're scenario-focused and cover real-world use cases. Take note of incorrect answers and why you got them wrong.
+- **Master Skillcertpro mock exams** — They're scenario-focused and cover real-world use cases. Take note of incorrect answers and why you got them wrong.
 - **Know how to interpret JSON responses** from Cognitive Services APIs. You might see raw output or be asked to tweak API parameters.
 - **Revise Microsoft Learn modules and architecture docs** — Most of the exam questions are aligned with real Azure design recommendations.
 - **Practice using SDKs and REST APIs** — C#, Python, and REST/HTTP-based interactions come up, especially for Computer Vision and Text Analytics.
@@ -97,5 +99,5 @@ if you're aiming for AI-102, my advice is: focus on hands-on experience — use 
 
 ---
 
-> 💡 *Tip: Aim for 85%+ on Measureup mocks and review incorrect answers in detail.*
+> 💡 *Tip: Aim for 85%+ on Skillcertpro mocks and review incorrect answers in detail.*
 
